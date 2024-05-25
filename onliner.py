@@ -85,6 +85,8 @@ async def BannerThread():
                       ╭───────────────────────────╮
                       │      Online: %s        │
                       │       Total: %s        │
+                      │                           |
+                      │    Discord : Kreyto.sql   │
                       ╰───────────────────────────╯
                     """ % (f'{Stats.online:<5}', f'{Stats.total:<5}'),
                 )
