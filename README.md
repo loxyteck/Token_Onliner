@@ -29,5 +29,5 @@
 
 ## Tricks
 ```
-  * Add Senko.bin on DISCORD.
+  * Add Kaizen.go on DISCORD.
 ```
